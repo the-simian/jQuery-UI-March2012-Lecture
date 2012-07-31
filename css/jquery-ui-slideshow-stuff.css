@@ -1,0 +1,20 @@
+﻿
+/*Global helpers*/
+.slide { min-height: 800px}
+
+
+
+/*Readable*/
+body { font-size: 2.3em; font-family: verdana}
+h2 { width: 90%;margin: 3% auto;padding: 1%; font-size:1.25em}
+h3 { text-align: center; opacity: 0.9}
+li { line-height: 1.6em; font-size:0.9em}
+ul li ul { font-size: 80%; opacity:0.9}
+
+
+.smaller {font-size:60%}
+/*activity*/
+.step {opacity: 0.45}
+.step.active {opacity:1.0}
+
+.fullOpactiy {opacity: 1.0 !important}
